@@ -1,0 +1,5 @@
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\netcoreapp3.1\SpotifyAdBlocker.csproj.AssemblyReference.cache
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\netcoreapp3.1\SpotifyAdBlocker.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\netcoreapp3.1\SpotifyAdBlocker.AssemblyInfoInputs.cache
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\netcoreapp3.1\SpotifyAdBlocker.AssemblyInfo.cs
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\netcoreapp3.1\SpotifyAdBlocker.csproj.CoreCompileInputs.cache
