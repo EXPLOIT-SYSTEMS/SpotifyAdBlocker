@@ -1,0 +1,3 @@
+﻿using SpotifyAdBlocker;
+
+Main.Init();
