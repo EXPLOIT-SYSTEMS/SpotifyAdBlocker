@@ -1,0 +1,15 @@
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\net6.0\SpotifyAdBlocker.exe
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\net6.0\SpotifyAdBlocker.deps.json
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\net6.0\SpotifyAdBlocker.runtimeconfig.json
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\net6.0\SpotifyAdBlocker.dll
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\net6.0\ref\SpotifyAdBlocker.dll
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\net6.0\SpotifyAdBlocker.pdb
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.csproj.AssemblyReference.cache
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.AssemblyInfoInputs.cache
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.AssemblyInfo.cs
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.csproj.CoreCompileInputs.cache
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.dll
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\ref\SpotifyAdBlocker.dll
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.pdb
+F:\vs22\workspace\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\net6.0\SpotifyAdBlocker.genruntimeconfig.cache

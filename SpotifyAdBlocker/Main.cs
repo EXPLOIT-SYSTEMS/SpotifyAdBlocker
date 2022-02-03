@@ -24,7 +24,7 @@ namespace SpotifyAdBlocker
             string HostsFile = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.System), "drivers/etc/hosts");
             List<string> AllHostLines = File.ReadAllLines(HostsFile).ToList();
             AllHostLines.Add("");
-            AllHostLines.Add("ExploitSystems Spotify Blocker");
+            AllHostLines.Add("#ExploitSystems Spotify Blocker");
             AllHostLines.Add("");
             foreach (string url in apiendpoints.URLToBlock)
             {
