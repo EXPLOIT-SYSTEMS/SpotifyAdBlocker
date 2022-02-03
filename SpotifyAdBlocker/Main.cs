@@ -5,20 +5,6 @@ namespace SpotifyAdBlocker
 {
     internal class Main
     {
-        private static readonly string[] URLToBlock = new string[]
-        {
-            "api.amplitude.com",
-            "api2.amplitude.com",
-            "api.uca.cloud.unity3d.com",
-            "config.uca.cloud.unity3d.com",
-            "cdp.cloud.unity3d.com",
-            "data-optout-service.uca.cloud.unity3d.com",
-            "perf-events.cloud.unity3d.com",
-            "public.cloud.unity3d.com"
-        };
-
-
-
         public static void Init()
         {
             if (!new WindowsPrincipal(WindowsIdentity.GetCurrent()).IsInRole(WindowsBuiltInRole.Administrator))
@@ -37,7 +23,10 @@ namespace SpotifyAdBlocker
         {
             string HostsFile = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.System), "drivers/etc/hosts");
             List<string> AllHostLines = File.ReadAllLines(HostsFile).ToList();
-            foreach (string url in URLToBlock)
+            AllHostLines.Add("");
+            AllHostLines.Add("ExploitSystems Spotify Blocker");
+            AllHostLines.Add("");
+            foreach (string url in apiendpoints.URLToBlock)
             {
                 bool IsExisting = false;
                 foreach (string line in AllHostLines)
@@ -52,7 +41,7 @@ namespace SpotifyAdBlocker
             }
             File.WriteAllLines(HostsFile, AllHostLines);
 
-            foreach (string url in URLToBlock)
+            foreach (string url in apiendpoints.URLToBlock)
             {
                 try
                 {
